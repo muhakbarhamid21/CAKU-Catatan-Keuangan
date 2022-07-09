@@ -14,11 +14,12 @@ Aplikasi ini memiliki basis CRUD yang mana pengguna dapat memungkinkan untuk mem
 
 ## Fitur
 
-1. Start Screen
-2. Homepage
-3. Tambah Transaksi
-4. Menambah nama
-5. Menghapus transaksi
+- Start Screen
+![image](https://user-images.githubusercontent.com/72149133/178093000-309186d1-a478-424c-80b8-be68f02e75a9.png)
+- Homepage
+- Tambah Transaksi
+- Menambah nama
+- Menghapus transaksi
 
 ## Implementasi Software
 IDE: Android Studio Chipmunk 2021.2.1 Patch 1
