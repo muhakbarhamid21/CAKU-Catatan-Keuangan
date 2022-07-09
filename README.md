@@ -1,4 +1,4 @@
-# CAKU: Catatan Keuangan (version 1.0.0)
+# CAKU: Catatan Keuangan (version 1.0.0) <br/>
 
 ![caku](https://user-images.githubusercontent.com/72149133/178093416-3f42e467-2503-42a6-a8b6-dfcf169eecda.png)
 
@@ -31,6 +31,6 @@ Aplikasi ini memiliki basis CRUD yang mana pengguna dapat memungkinkan untuk mem
 ![hapustransaksi](https://user-images.githubusercontent.com/72149133/178093499-a2df1725-1ecd-440b-9915-bae3798f3444.png)
 
 ## Implementasi Software
-IDE: Android Studio Chipmunk 2021.2.1 Patch 1
-Framework: Flutter 3.0.4
-Database: Hive Db
+IDE: Android Studio Chipmunk 2021.2.1 Patch 1 <br/>
+Framework: Flutter 3.0.4 <br/>
+Database: Hive Db <br/>
