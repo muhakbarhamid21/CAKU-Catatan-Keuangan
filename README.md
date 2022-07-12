@@ -36,3 +36,7 @@ Aplikasi ini memiliki basis CRUD yang mana pengguna dapat memungkinkan untuk mem
 IDE: Android Studio Chipmunk 2021.2.1 Patch 1 <br/>
 Framework: Flutter 3.0.4 <br/>
 Database: Hive Db <br/>
+
+## Versi
+### Versi 1.0.0
+### Versi 1.0.1
