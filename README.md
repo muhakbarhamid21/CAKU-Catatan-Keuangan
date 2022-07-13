@@ -39,6 +39,6 @@ Database: Hive Db <br/>
 
 ## Versi
 ### Versi 1.0.0
-- 
+- ~
 ### Versi 1.0.1
 - Memperbaiki bagian yang terdapat error overflow pada page input nama, mengganti nama, tambahkan transaksi, dan dashboard.
