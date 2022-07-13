@@ -1,4 +1,4 @@
-# CAKU: Catatan Keuangan (version 1.0.0) <br/>
+# CAKU: Catatan Keuangan (version 1.0.1) <br/>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72149133/178093416-3f42e467-2503-42a6-a8b6-dfcf169eecda.png">
